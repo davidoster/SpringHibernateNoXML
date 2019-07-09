@@ -1,0 +1,10 @@
+org\afdemp\cb8\springhibernatenoxml\configuration\AppInitializer.class
+org\afdemp\cb8\springhibernatenoxml\configuration\AppConfig.class
+org\afdemp\cb8\springhibernatenoxml\dao\EmployeeDao.class
+org\afdemp\cb8\springhibernatenoxml\dao\AbstractDao.class
+org\afdemp\cb8\springhibernatenoxml\models\Employee.class
+org\afdemp\cb8\springhibernatenoxml\services\EmployeeService.class
+org\afdemp\cb8\springhibernatenoxml\configuration\HibernateConfiguration.class
+org\afdemp\cb8\springhibernatenoxml\controllers\TestController.class
+org\afdemp\cb8\springhibernatenoxml\dao\EmployeeDaoImpl.class
+org\afdemp\cb8\springhibernatenoxml\services\EmployeeServiceImpl.class
